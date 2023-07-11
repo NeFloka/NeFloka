@@ -4,7 +4,7 @@ Enthusiastic and meticulous QA Engineer with experience in web application testi
 
 My CV
 
-### Languages and Tools:
+### Languages and Tools
 ![Go](https://img.shields.io/badge/Go-FFFFFF?logo=go&style=plastic)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?logo=Python&style=plastic)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?logo=Linux&style=plastic)
@@ -16,4 +16,6 @@ My CV
 ![GCC](https://img.shields.io/badge/GCC-FFFFFF?logo=google&style=plastic)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?logo=Figma&style=plastic)
 
-Follow me
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2172D2?logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/polina-shorokhova/)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?logo=Telegram&style=plastic)](https://t.me/NeFloka)
