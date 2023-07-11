@@ -1,6 +1,6 @@
 [![Header](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
 
-#### Enthusiastic and meticulous QA Engineer with experience in web application testing in Agile team in a startup from the US.
+#### Motivated QA Engineer with over one year of experience and a strong background in manual testing and troubleshooting of 3-tier web applications
 
 My CV
 
