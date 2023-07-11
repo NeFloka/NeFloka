@@ -1,6 +1,6 @@
 [![Header](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
 
-#### Motivated and meticulous manual QA Engineer with 1 year experience in web application testing
+### Motivated and meticulous manual QA Engineer with 1 year experience in web application testing
 
 My CV
 
