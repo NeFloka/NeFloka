@@ -1,6 +1,6 @@
 [![Header](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)](https://github.com/NeFloka/NeFloka/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
 
-### I'm manual QA Engineer with deep dive into testing design methods (BVA, pairwise, decision tables, state transition, equivalents classes), 3-tier web applications troubleshooting
+### I'm manual QA Engineer with deep dive into testing design methods (Boundary Value Analysis, Pairwise, Decision Tables, State Transition, Equivalents Classes), 3-tier web applications troubleshooting
 
 ## [![My CV](https://img.shields.io/badge/My_CV-FFFFFF?style=plastic&logo=About.me)](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=drive_link)
 
