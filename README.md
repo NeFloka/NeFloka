@@ -2,7 +2,7 @@
 
 ### Motivated and meticulous manual QA Engineer with 1 year experience in web application testing
 
-[![My CV](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing)](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=drive_link)
 
 ### Languages and Tools
 ![Go](https://img.shields.io/badge/Go-FFFFFF?logo=go&style=plastic)
@@ -19,3 +19,6 @@
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2172D2?logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/polina-shorokhova/)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?logo=Telegram&style=plastic)](https://t.me/NeFloka)
+
+
+[def]: https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing
