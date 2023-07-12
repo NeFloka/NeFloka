@@ -2,7 +2,7 @@
 
 ### Motivated and meticulous manual QA Engineer with 1 year experience in web application testing
 
-My CV
+[![My CV](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing)](https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing)
 
 ### Languages and Tools
 ![Go](https://img.shields.io/badge/Go-FFFFFF?logo=go&style=plastic)
