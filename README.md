@@ -18,7 +18,7 @@
 ![GCC](https://img.shields.io/badge/GCC-FFFFFF?logo=google&style=plastic)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?logo=Figma&style=plastic)
 
-### Test Artifacts
+### Sample Test Artifacts
 - [Test Cases](https://drive.google.com/drive/folders/1fBLxtMeoEJC6TsQSHYy0iI4ahFZ6Qa3S?usp=drive_link)
 - [Check Lists](https://drive.google.com/drive/folders/1fBLxtMeoEJC6TsQSHYy0iI4ahFZ6Qa3S?usp=drive_link)
 - [Bug Reports](https://drive.google.com/drive/folders/1fBLxtMeoEJC6TsQSHYy0iI4ahFZ6Qa3S?usp=drive_link)
@@ -28,6 +28,3 @@
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2172D2?logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/polina-shorokhova/)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?logo=Telegram&style=plastic)](https://t.me/NeFloka)
-
-
-[def]: https://drive.google.com/file/d/19DwK7TYxlL5zuNM_RU3vrdwopSn8VR_v/view?usp=sharing
