@@ -23,7 +23,7 @@
 - [Check Lists](https://drive.google.com/drive/folders/1mYWoKrR4s2mOiO2As1av31VCm2pgkJ3K?usp=drive_link)
 - [Bug Reports](https://drive.google.com/drive/folders/1DO2ZV1FoWyXF_PffEZxrKnsSUHrwbBCH?usp=drive_link)
 - [SQL Queries](https://github.com/NeFloka/sql)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/NeFloka/postman_collections)
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2172D2?logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/polina-shorokhova/)
